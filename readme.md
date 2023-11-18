@@ -46,7 +46,7 @@ Having the right side mapped on the left side (with the same fingers pressing ea
 
 # Layer 7: Navigation and Numpad
 
-![Layer_7 Navigation+Numpad.png](images%2FLayer_7%20Navigation%2BNumpad.png)
+![Layer_7 Navigation+Numpad.png](images%2FLayer_07%20Navigation%2BNumpad.png)
 
 # Layer 8: CAD
 Currently only transparent, so nothing to show here
