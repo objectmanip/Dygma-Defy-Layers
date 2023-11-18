@@ -151,10 +151,8 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 65535,
@@ -247,10 +245,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 65535,
@@ -343,10 +341,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 65535,
@@ -454,9 +452,9 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 54005,
-      "label": "B/Spa",
-      "extraLabel": "SUPER"
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
     },
     {
       "keyCode": 17454,
@@ -802,10 +800,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 255,
+      "r": 75,
       "g": 255,
-      "b": 255,
-      "rgb": "rgb(255, 255, 255)"
+      "b": 0,
+      "rgb": "rgb(75, 255, 0)"
     }
   ]
 }

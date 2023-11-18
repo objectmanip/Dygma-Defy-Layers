@@ -60,27 +60,27 @@
       "label": "ESC"
     },
     {
-      "keyCode": 53990,
+      "keyCode": 53986,
       "label": "F1",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53991,
+      "keyCode": 53987,
       "label": "F2",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53992,
+      "keyCode": 53988,
       "label": "F3",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53993,
+      "keyCode": 53989,
       "label": "F4",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53994,
+      "keyCode": 53990,
       "label": "F5",
       "extraLabel": "SUPER"
     },
@@ -107,33 +107,34 @@
       "verbose": "Print Screen"
     },
     {
-      "keyCode": 53995,
+      "keyCode": 53991,
       "label": "F6",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53996,
+      "keyCode": 53992,
       "label": "F7",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53997,
+      "keyCode": 53993,
       "label": "F8",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53998,
+      "keyCode": 53994,
       "label": "F9",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53999,
+      "keyCode": 53995,
       "label": "F10",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 68,
-      "label": "F11"
+      "keyCode": 53999,
+      "label": "F11",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 43,
@@ -160,26 +161,24 @@
       "label": "b"
     },
     {
+      "keyCode": 80,
+      "label": "←"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 82,
       "label": "↑"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 13,
@@ -202,13 +201,13 @@
       "label": "-"
     },
     {
-      "keyCode": 53985,
+      "keyCode": 53984,
       "label": "Vol+",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 49248,
-      "label": "→",
+      "keyCode": 49221,
+      "label": "'",
       "extraLabel": "CTRL/"
     },
     {
@@ -232,26 +231,24 @@
       "label": "g"
     },
     {
+      "keyCode": 79,
+      "label": "→"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 81,
       "label": "↓"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 16,
@@ -274,14 +271,15 @@
       "label": "o"
     },
     {
-      "keyCode": 53986,
+      "keyCode": 53985,
       "label": "Play",
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 49505,
-      "label": "←",
-      "extraLabel": "SHIFT/"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 29,
@@ -348,7 +346,7 @@
       "label": "/"
     },
     {
-      "keyCode": 53984,
+      "keyCode": 53983,
       "label": "Vol-",
       "extraLabel": "SUPER"
     },
@@ -430,84 +428,78 @@
       "extraLabel": "ALTGR/"
     },
     {
-      "keyCode": 54001,
-      "label": "Page",
-      "extraLabel": "SUPER"
+      "keyCode": 17501,
+      "label": "10",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
     2,
+    13,
     2,
     2,
     2,
     2,
     2,
-    8,
     2,
+    13,
     2,
     2,
     2,
     2,
     2,
-    8,
     2,
+    13,
     2,
     2,
     2,
     2,
     2,
-    8,
-    4,
-    4,
-    8,
     2,
     2,
+    13,
+    13,
     2,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
     2,
     2,
     2,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
     2,
+    13,
     2,
     2,
-    8,
     2,
     2,
     2,
     2,
+    13,
     2,
     2,
-    8,
     2,
     2,
     2,
     2,
+    13,
     2,
     2,
-    8,
-    4,
-    4,
-    8,
     2,
     2,
     2,
     2,
     2,
+    13,
+    13,
     2,
     2,
     2,
@@ -574,7 +566,13 @@
     2,
     2,
     2,
-    15,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
     2,
     2,
     2,
@@ -707,10 +705,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 255,
+      "r": 75,
       "g": 255,
-      "b": 255,
-      "rgb": "rgb(255, 255, 255)"
+      "b": 0,
+      "rgb": "rgb(75, 255, 0)"
     }
   ]
 }

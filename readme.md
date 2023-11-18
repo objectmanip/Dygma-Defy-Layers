@@ -4,6 +4,15 @@ Added the files for each layer.
 Colemak Mod DH layer with num row/F-keys and media keys.
 The Ctrl+Alt+Shift on the innermost thumb key is for my program switching macro, e.g. Ctrl+Alt+Shift+O would open or switch to ObsidianMD.
 
+The Super F1-F10 are:
+Tap: Number, eg. 1 
+Hold: F-Key, eg. F1
+
+Super F11 is:
+Tap: Next Song
+Hold: F11
+Double Tap: Previous Song
+
 Changes to previous version: 
 - *Ctrl* and *Shift* are now dual function keys with *right* and *left* respectively
 - changed the left arrow keys to *up/down* from *left/right*
