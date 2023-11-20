@@ -14,7 +14,8 @@ Hold: F11
 Double Tap: Previous Song
 
 Changes to previous version: 
-- *Ctrl* and *Shift* are now dual function keys with *right* and *left* respectively
+- *Ctrl* and *Shift* are now dual function keys with *'* and *=* respectively
+- the MEH keys now have function on press, "END ENTER" on the left, "END ; ENTER" on the right
 - changed the left arrow keys to *up/down* from *left/right*
 - replaced the right arrow keys with 
 - Changed the super copy to *-*

@@ -142,9 +142,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 43,
@@ -237,10 +238,9 @@
       "verbose": "Left Control"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 227,
+      "label": "LEFT WIN",
+      "verbose": "Left Windows"
     },
     {
       "keyCode": 20484,
@@ -407,14 +407,15 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
-    },
-    {
       "keyCode": 54108,
       "label": "LEVEL",
       "extraLabel": "BATT."
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 20545,
@@ -427,10 +428,9 @@
       "extraLabel": "M.Btn"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17498,
+      "label": "7",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 20548,
@@ -471,10 +471,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 52830,
+      "label": "DEL",
+      "extraLabel": "L#7/"
+    },
+    {
+      "keyCode": 49465,
+      "label": "ENTER",
+      "extraLabel": "SHIFT/"
     },
     {
       "keyCode": 0,
@@ -483,16 +487,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17492,
+      "label": "1",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -511,7 +508,7 @@
     2,
     3,
     2,
-    14,
+    2,
     6,
     6,
     6,
@@ -523,45 +520,45 @@
     12,
     12,
     12,
-    2,
     3,
+    2,
     7,
     7,
-    14,
+    15,
     7,
     3,
     3,
-    11,
+    12,
     12,
     14,
-    14,
-    2,
-    14,
-    14,
-    14,
-    2,
-    6,
-    6,
-    6,
-    2,
-    2,
-    14,
-    6,
-    6,
-    6,
-    6,
-    2,
-    2,
     14,
     11,
+    14,
+    14,
+    14,
+    2,
     6,
     6,
     6,
     2,
+    2,
     14,
+    6,
+    6,
+    6,
+    6,
+    2,
+    2,
     14,
+    11,
+    6,
+    6,
+    6,
+    2,
+    11,
     14,
-    14,
+    15,
+    15,
     14,
     14,
     14,
@@ -767,10 +764,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 255,
+      "r": 75,
       "g": 255,
-      "b": 255,
-      "rgb": "rgb(255, 255, 255)"
+      "b": 0,
+      "rgb": "rgb(75, 255, 0)"
     }
   ]
 }
