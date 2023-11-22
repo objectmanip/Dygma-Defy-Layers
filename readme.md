@@ -4,22 +4,49 @@ Added the files for each layer.
 Colemak Mod DH layer with num row/F-keys and media keys.
 The Ctrl+Alt+Shift on the innermost thumb key is for my program switching macro, e.g. Ctrl+Alt+Shift+O would open or switch to ObsidianMD.
 
-The Super F1-F10 are:
-Tap: Number, eg. 1 
-Hold: F-Key, eg. F1
-
-Super F11 is:
-Tap: Next Song
-Hold: F11
-Double Tap: Previous Song
-
-Changes to previous version: 
-- *Ctrl* and *Shift* are now dual function keys with *'* and *=* respectively
-- the MEH keys now have function on press, "END ENTER" on the left, "END ; ENTER" on the right
-- changed the left arrow keys to *up/down* from *left/right*
-- replaced the right arrow keys with 
-- Changed the super copy to *-*
-- Added dual *backspace/altGr* to the right thumb cluster
+## Superkeys:
+- Super F1 - Super F10:
+  - Tap: 1 - 0
+  - Hold: F1 - F10
+- Super F11
+  - Tap: Next Song
+  - Double Tap: Previous Song
+  - Hold: F11
+- Super AudVi
+  - Tap: Ctrl+Alt+F13 (Shortcut for SoundSwitch)
+  - Hold: Alt+OS+K (Shortcut to mute microphone)
+  - Tap&Hold: Ctrl+Shift+V (Shortcut to toggle camera in webex)
+  - 2Tap: Camera
+- Super Vol+:
+  - Tap: Volume up
+  - Hold: Volume up
+  - Tap&Hold: F12
+  - 2Tap: Volume up
+  - 2Tap&Hold: Volume up
+- Super Play:
+  - Tap: PlayPause
+  - Hold: Shift+F10 (Shortcut for run code in JetBrains IDEs)
+- Super Vol-:
+  - Tap: Volume down
+  - Hold: Volume down
+  - Tap&Hold: Mute
+  - 2Tap: Volume down
+  - 2Tap&Hold: Volume down
+- Super MEH:
+  - Tap: Macro: END ENTER
+  - Hold: Ctrl+Alt+Shift (in combination with alphas to switch programs or open websites)
+- Super MEH2:
+  - Tap: Macro: END ; ENTER
+  - Hold: Ctrl+Alt+Shift
+- Super Home:
+  - Tap: Home
+  - Hold: Shift+Home
+- Super End:
+  - Tap: End
+  - Hold: Shift+End
+- Super OS:
+  - Tap: OS+Space
+  - Hold: OS
 
 ![Layer_1 Colemak DH.png](images%2FLayer_01%20Colemak%20DH.png)
 
@@ -33,6 +60,14 @@ Changes to previous version:
 
 # Layer 3: Symbols
 Symbol layer with mirrored layout for the different brackets (open on the left, close on the right) and all necessary symbols.
+
+Superkeys:
+- Super >:
+  - Tap: >
+  - Hold: =>
+- Super <:
+  - Tap: <
+  - Hold: <=
 
 ![Layer_3 Symbols.png](images%2FLayer_03%20Symbols.png)
 
